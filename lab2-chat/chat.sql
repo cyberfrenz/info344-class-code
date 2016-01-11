@@ -12,4 +12,4 @@ CREATE TABLE message (
 INSERT INTO message (nickname, content)
 VALUES
     (NULL, "Hello, world!"),
-    ("john doe", "Hi there...")
+    ("Antony", "Hey suckers")
